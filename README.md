@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Akash Yadav</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sufiyanmanihar747&label=Profile%20views&color=0e75b6&style=flat" alt="sufiyanmanihar747" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Akash-Yadav05&label=Profile%20views&color=0e75b6&style=flat" alt="Akash-yadav05" /> </p>
 
 - 🌱 I’m currently learning **PHP, Bootstrap,**
 
