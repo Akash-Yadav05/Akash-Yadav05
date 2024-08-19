@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Akash-Yadav05&label=Profile%20views&color=0e75b6&style=flat" alt="Akash-yadav05" /> </p>
 
-- 🌱 I’m currently learning **PHP, Bootstrap,**
+- 🌱 I’m currently learning **PHP, laravel,Bootstrap,Reactjs,Html,Css,javascript,Sql,**
 
 - 👨‍💻 All of my projects are available at 
 
